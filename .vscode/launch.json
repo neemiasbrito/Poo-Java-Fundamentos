@@ -1,0 +1,64 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SeguroPessoaFisicas",
+            "request": "launch",
+            "mainClass": "banco.seguros.SeguroPessoaFisicas",
+            "projectName": "POO_b58c837c"
+        },
+        {
+            "type": "java",
+            "name": "PessoaFisica",
+            "request": "launch",
+            "mainClass": "banco.contas.PessoaFisica",
+            "projectName": "POO_b58c837c"
+        },
+        {
+            "type": "java",
+            "name": "PessoaFisica",
+            "request": "launch",
+            "mainClass": "banco.PessoaFisica",
+            "projectName": "POO_b58c837c"
+        },
+        {
+            "type": "java",
+            "name": "Zeus",
+            "request": "launch",
+            "mainClass": "poo.Zeus",
+            "projectName": "POO_b58c837c"
+        },
+        {
+            "type": "java",
+            "name": "Uno",
+            "request": "launch",
+            "mainClass": "poo.Uno",
+            "projectName": "POO_b58c837c"
+        },
+        {
+            "type": "java",
+            "name": "Gol",
+            "request": "launch",
+            "mainClass": "poo.Gol",
+            "projectName": "POO_b58c837c"
+        },
+        {
+            "type": "java",
+            "name": "Fusca",
+            "request": "launch",
+            "mainClass": "poo.Fusca",
+            "projectName": "POO_b58c837c"
+        },
+        {
+            "type": "java",
+            "name": "Ferrari",
+            "request": "launch",
+            "mainClass": "poo.Ferrari",
+            "projectName": "POO_b58c837c"
+        }
+    ]
+}
